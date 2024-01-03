@@ -1,13 +1,11 @@
-<h1 style="text-align: center;">A piece of centered text</h1>
+<h2 align="center">Welcome To My GitHub Page!</h2>
 
-# About Me
-- 👋 Hi, I’m @eren-dogan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### About Me 🧑‍💻
+👋 Hi there, I’m Eren Doğan, 
 
-<!---
-eren-dogan/eren-dogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Languages And Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,spring,hibernate,maven,postman,git,mongodb,mysql,html,css,javascript,bootstrap,bash&perline=7" />
+  </a>
+</p>
