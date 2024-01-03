@@ -7,7 +7,7 @@ Hello, I'm Eren Doğan 👋. I'm an enthusiastic software developer and mechanic
 If you have any question/feedback, please do not hesisate to reach out to me! 💬
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eren-do%C4%9Fan-aa91871b5/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/erendogan.dw)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/erendogan.dwg)
 
 ## I'm Currently Learning 🌱
 * Dockers
