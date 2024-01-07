@@ -10,7 +10,7 @@ If you have any question/feedback, please do not hesisate to reach out to me! ğŸ
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/erendogan.dwg)
 
 ## I'm Currently Learning ğŸŒ±
-* Dockers
+* Docker
 * CI/CD
 
 ## My Languages and Tools
